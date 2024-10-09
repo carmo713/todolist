@@ -1,5 +1,7 @@
 {
     "require": {
-        "laravel/breeze": "^2.2"
+        "laravel/framework": "^10.0", 
+        "laravel/breeze": "^2.2",
+        "fruitcake/laravel-cors": "^2.0" 
     }
 }
